@@ -1,0 +1,3 @@
+[submodule "backend-dashboard-python"]
+	path = backend-dashboard-python
+	url = https://github.com/nabilhatami86/backend-dashboard-python.git
