@@ -1,3 +1,6 @@
 [submodule "backend-dashboard-python"]
 	path = backend-dashboard-python
 	url = https://github.com/nabilhatami86/backend-dashboard-python.git
+[submodule "dashboard-message-center"]
+	path = dashboard-message-center
+	url = https://github.com/nabilhatami86/dashboard-message-center.git
